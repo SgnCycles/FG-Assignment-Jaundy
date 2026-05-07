@@ -1,7 +1,7 @@
 # FG - Webb application development - Assignment 1 - CSS Libraries - Tailwind#
 
 ## Introduction ##
-For this school assignment I have built a SPA React website to test my knowledge of TypeScript, CSS Libraries and core React fundamentals.
+For this school assignment I have built a SPA React website to test my knowledge of TypeScript, Tailwind and core React fundamentals.
 The topic of the website is to explore the facts in three categories (cats, dogs and useless facts) with data fecthed from APIs.
 
 ## Live Demo ##
